@@ -15,6 +15,9 @@ body {
   background-color: var(--bg);
   color: #faedcd;
 }
+html {
+  scroll-behavior: smooth;
+}
 /* navbar */
 .navbar {
   display: flex;
