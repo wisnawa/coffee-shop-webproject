@@ -1,6 +1,8 @@
 root folder files in computer:
 D:\webproject\Backup-code\project HTML\coffee-shop-webproject
 
+color tools:
+https://coolors.co/palettes/trending
 
 https://www.youtube.com/watch?v=MCVkMmYL-aY&t=50s
 update
